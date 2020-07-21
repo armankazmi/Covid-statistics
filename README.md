@@ -5,4 +5,4 @@ run covid.py
 ```
 The script downloads the latest dataset from [Our world in data](https://ourworldindata.org/coronavirus-testing).
 
-Using python plotly the plots are plotted and also different statistics are shown.
+Using python **plotly** the plots are plotted and also different statistics are shown.
