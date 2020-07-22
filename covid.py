@@ -1,3 +1,5 @@
+#Script to plot and view the latest statistics of Covid -19 of any country.
+#author: Arman Kazmi
 #Getting the latest covid data and saving as covid_data.csv
 import requests
 r = requests.get('https://covid.ourworldindata.org/data/owid-covid-data.csv')
